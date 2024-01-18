@@ -10,5 +10,6 @@ terraform -v
 
 ![image](https://github.com/Devendranathashok/aws-eks-terraform/assets/29894924/a6aff646-86e2-447f-910e-55bfe14efb10)
 
+Install aws CLI usnig aws-cli.sh
 
 
